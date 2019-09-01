@@ -1,6 +1,1 @@
-# midtermProject_GW_CZ
-
-Shared repository for Grace Wang and Charissa Zou
-
-Midterm Project
-Due Thurs March 28th
+Image manipulation program inspired by Photoshop. Allows for cropping, color-changing, and grey-scaling of all pictures in PPM format. Also implemented Gaussian Blur and Canny Edge Detector algorithms. 
