@@ -1,0 +1,459 @@
+commit 1c7f2da935c71284a0199c5501618cf8978352d1
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 22:17:41 2019 -0400
+
+    Finalized everything, i.e. testing and error checking
+
+commit ec752c837c94ee70150e68090cbfd817feb0c3b1
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 21:41:39 2019 -0400
+
+    Finished imagemanipgit statusgit status
+
+commit 89e26b473f08ff6d01e23757a774e1086c650263
+Merge: d0de2ea 9f7fc5e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 21:05:41 2019 -0400
+
+    I HATE BITBUCKET
+
+commit 9f7fc5e1372387862a72bd789cd479d0a3a25b10
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 20:49:58 2019 -0400
+
+    project?
+
+commit 8862693da7ad821f52018846318fa5880af405e8
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 20:49:23 2019 -0400
+
+    Does this work?
+
+commit d0de2ea2239c1acfe8b5079c3fe37c118656467b
+Merge: b4ada86 c4eb551
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 20:17:57 2019 -0400
+
+    merge conflict with project.c solved
+
+commit b4ada86779d68340a0044f3b8756ac6beb1c222a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 20:00:17 2019 -0400
+
+    modified project.c
+
+commit 2b60454d5a52e4585d346d5153d0fd1ae720fb7a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 19:58:33 2019 -0400
+
+    Edited crop function
+
+commit c4eb551c0c58ae6cd274767218e21b54ad4f7ed5
+Merge: d2b1cfb c69cf9e
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 19:57:07 2019 -0400
+
+    Add edge cases
+
+commit d2b1cfbf1fde35c4e54d5d1c1ac3f99d8b16e983
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 19:38:45 2019 -0400
+
+    temp
+
+commit c69cf9ec3a51fb388d25c0ec18b30fafcd9eabb6
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 19:35:23 2019 -0400
+
+    YEET now everything works
+
+commit b0cfba7b4859392a095664011ffec7d5e9751c5e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 19:09:15 2019 -0400
+
+    EDGES WORKSgit add imageManip.cgit add imageManip.c
+
+commit 3cbff0784aef9bb5a5538382377b8d4763430b84
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 18:29:33 2019 -0400
+
+    BLUR WORKS
+
+commit 71c92ac1f685d9fe0c42d6c290c6affc486cf5fd
+Merge: 89dc692 1b1d50f
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 14:20:46 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/GrayW2019/midtermproject_gw_cz
+
+commit 89dc6921dfb5dd940bf464c2315cf45addf9e778
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 14:20:27 2019 -0400
+
+    Temporary
+
+commit 1b1d50fa89308d9cb044718cd5d7755630afff30
+Merge: f6ad950 99147c5
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 14:11:35 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/GrayW2019/midtermproject_gw_cz
+
+commit f6ad950d692dba2bbeebda8acb4dc379d22d8f1d
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 14:07:57 2019 -0400
+
+    testing project.c
+
+commit 8a70346ebab4a2f640c753c04618dd787bd52f3c
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 14:06:22 2019 -0400
+
+    Cat is no longer blue and swap works perfectly
+
+commit 99147c54ba0e4dc4d1db80dc5a303a22547d13b0
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 07:40:14 2019 -0400
+
+    Made all channels white or black when maxed out in bright
+
+commit 8521faeff44b3e06c531a293cb002ad42c960bec
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 07:30:00 2019 -0400
+
+    Fixed blur parameters and included imageManip.c
+
+commit adbb5f27455f5cd363aaed8b0687ef2095312695
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 07:29:00 2019 -0400
+
+    Fixed parameters for blur
+
+commit 2f5f84720f79e1e0a37741340056df0ad04404b5
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 07:28:29 2019 -0400
+
+    Fixed dimensions for crop
+
+commit 47f6ebae70c9c183ee0438a3314f3496a6fde816
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 05:57:12 2019 -0400
+
+    Need to solve inconsistencies
+
+commit fff1bc2194770f39fa2ddd7591dd918183ee9ad3
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 05:56:49 2019 -0400
+
+    Checked error messages
+
+commit 27149598773d9e0c1c33b1dead65f32ce3b9dbd0
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 05:56:16 2019 -0400
+
+    Clarified errors
+
+commit 1f9c6c291ab83694eab1d87324e28ff2fb34c433
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 03:05:10 2019 -0400
+
+    Now everything at least compilesgit add Makefile imageManip.c project.c
+
+commit 22cb2d1b1c1945a176b790e26d1092fbf57516a2
+Merge: 33023a6 224206e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 02:25:35 2019 -0400
+
+    this is stupid
+
+commit 33023a61d56d32b718fd1c0a687c49c694c50938
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 02:24:38 2019 -0400
+
+    blah
+
+commit 224206e2de7d7a401d554fd6b5db0bddf2e13018
+Merge: 1822282 ad19348
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 02:21:26 2019 -0400
+
+    Debugged compiler errors
+
+commit 18222820496e6e712929c743b6ecd39b5a08e8f9
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 02:19:07 2019 -0400
+
+    Temporary
+
+commit e576696b892a3851273d25b593597b6051516664
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 02:18:07 2019 -0400
+
+    Synched with imageManip.c
+
+commit c4a17c0c505d8fdb70bfbcf37610878a197bf43d
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 02:17:33 2019 -0400
+
+    Debugged compiler errors
+
+commit ad193480b715f72ac44c64a2a36fcf91089da467
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 02:17:21 2019 -0400
+
+    Modified Makefile
+
+commit a6a4b2b2d09e7cde9f4034dd704ff21320e67b6f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu Mar 28 01:42:40 2019 -0400
+
+    Got the read and write to work but in blue???
+
+commit 73846b9ffdd2e4e94b3000142a2a96ddba6d8247
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Thu Mar 28 01:13:12 2019 -0400
+
+    Skips non numeric starting lines
+
+commit 85ec044c13bdac6c05d51ae77a769b05fbfc7b8f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 21:53:15 2019 -0400
+
+    Modified ppm_io.c still testing
+
+commit 424a8287be277d48a8395c9fddb8015ce56009a8
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 17:29:58 2019 -0400
+
+    testing
+
+commit 5a744ac252783e9645ee63ad9d6304c845d146e0
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 17:13:30 2019 -0400
+
+    Added additional headers
+
+commit b0af41939607cfce1861c1e58cd5fc1399176dcb
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 17:06:58 2019 -0400
+
+    Added edge cases for crop
+
+commit b62d706754f55b01545a197f59644faa9b397114
+Merge: 3c02618 0d1b93e
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 17:05:33 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/GrayW2019/midtermproject_gw_cz
+
+commit 3c02618c47410cdfb4297d93a94a9be08a639ae5
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 17:04:53 2019 -0400
+
+    Finished Makefile
+
+commit 0d1b93e2034c6003cca986655909778ed732c2df
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 17:04:53 2019 -0400
+
+    testing read and write ppm functions
+
+commit bd0a9539b92328a1d0252a205b0ef29315bcc0e7
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 16:55:50 2019 -0400
+
+    Added headers for blur and edges
+
+commit dd31638ff4087adbcc849b8ea9fa5ae0c47f0658
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 16:55:30 2019 -0400
+
+    Rewrote basic main function
+
+commit 2b09bf99c46fd46bb594c83f5c95eb725e2213b3
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 15:47:03 2019 -0400
+
+    Basic makefile without valgrind
+
+commit 2d059dae88bd19bf925ed13b95a112a6eff834c6
+Merge: 22e8c05 3fa46c4
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 15:41:13 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/GrayW2019/midtermproject_gw_cz
+    
+    Combined all functions into one file
+
+commit 22e8c052bd22a86b2d9f3fad9a9928796a1e8725
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 15:40:29 2019 -0400
+
+    Combined all functions in one file
+
+commit 3fa46c4f5a117e8295b6fe40c6f23b71d3ee0d8e
+Merge: bcd676b 9053b11
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 15:36:51 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/GrayW2019/midtermproject_gw_cz
+
+commit bcd676bda27bd00c6742cabcadbd5aef0f81b407
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 15:36:19 2019 -0400
+
+    Begin to write method calls
+
+commit 9053b1115ccad1000d48a417f2ccea939c5dbb3a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 14:34:18 2019 -0400
+
+    Wrote edge function and modified blur function
+
+commit 36e77ef6410f8ef88543831302a1b30ddd315e1f
+Merge: 2862b06 0092f9a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 04:14:29 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/GrayW2019/midtermproject_gw_cz
+
+commit 2862b060f4c8325f9a963d6bc8680ab4a63e530e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 04:10:57 2019 -0400
+
+    Finished blur function
+
+commit 0092f9a657661cb5cf69735eb37929601044ff34
+Merge: 8aa432d 9f98239
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 03:54:00 2019 -0400
+
+    Consolidated changes
+
+commit 8aa432dfd64de139cf0663285859572e9a73ae5c
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 03:27:54 2019 -0400
+
+    Finished error reporting for verifying pixels read
+
+commit 47287ce0ca459266f9ad5480775e66e66ff4700b
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 03:26:18 2019 -0400
+
+    Synched clamp parameter with changes made in imageManip.c
+
+commit a5f59fc837e164e1cf3037ddfd5a93d1a5c0220b
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Wed Mar 27 03:25:33 2019 -0400
+
+    Fixed array scanning to account for 1D arrays
+
+commit 9f982395e8bf7b54eaa7855cbbe279665bc29150
+Merge: 355d3d3 7dfed02
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 01:18:45 2019 -0400
+
+    Wrote blur function
+
+commit 7dfed02b3344812b5d1753f1cc7a556ffa50e05d
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Mar 27 00:50:41 2019 -0400
+
+    Wrote blur function in separtate file for testing
+
+commit 355d3d34197ae2af7c3deea04a7f699ec031eece
+Merge: 53a57e6 e03085f
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Tue Mar 26 20:16:14 2019 -0400
+
+    Merged with local repo
+
+commit 53a57e6d3a26e4eb74b86e99e30ccc09db66e72f
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Tue Mar 26 17:31:02 2019 -0400
+
+    Edited comments
+
+commit e03085f3a9e074ba106a54b2c2aa21dae0321718
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Tue Mar 26 00:05:38 2019 -0400
+
+    Added error outputs
+
+commit 6905298e6ed0cf7fac9f40fc6922e94924d56ee4
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Mon Mar 25 03:33:38 2019 -0400
+
+    Created helper function for bright
+
+commit a11e6e7407caba22a8afa4972892d04da3c03ac0
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Mon Mar 25 02:32:56 2019 -0400
+
+    Added includes
+
+commit 639085086877a8c2d3e6ecabca9215c918b9046e
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Mon Mar 25 02:27:06 2019 -0400
+
+    Modified all image manipulation functions except blur and edges
+
+commit 0e66c5c0929de5d0fea4ee24d62ef33456453cbf
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Mon Mar 25 01:31:27 2019 -0400
+
+    Altered return for swap
+
+commit e78b78d7581d6d0e2fd192c87461f8e47218de66
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 07:03:02 2019 -0400
+
+    Created a rudimentary main function
+
+commit a729a9580a64ed6f5c0b4033998378a2af1b61f0
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 07:01:58 2019 -0400
+
+    Edited a mistake in the for loop
+
+commit 8fa427901ea77d81217cd26bdfe0c517bdf9eb1f
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 06:56:54 2019 -0400
+
+    Started each function and set parameters
+
+commit 33989cf519964950077a33d93376b7086c2b2879
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 05:59:26 2019 -0400
+
+    Copy from public repo
+
+commit 83ef542b31878e22dd6544651786e020d4427732
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 05:58:26 2019 -0400
+
+    Copy over from public ppm_io header
+
+commit 291dcccbec6d6d29a69957b7bcc9ad3bb30b2ac8
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 05:56:15 2019 -0400
+
+    Modified read_ppm stub
+
+commit 670492758df0ec84b5f8ae36c64e506efb551eac
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 07:25:14 2019 +0000
+
+    README.md edited online with Bitbucket
+
+commit 36a137d51064ee2226d110d5f828943237fbd413
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 07:24:14 2019 +0000
+
+    README Edited
+
+commit 65770cbab505c259599a51d3b9e266471dff7301
+Author: Grace Wang <gwang46@jhu.edu>
+Date:   Sat Mar 23 07:17:07 2019 +0000
+
+    Initial commit
